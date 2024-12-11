@@ -72,7 +72,7 @@
     "intersection-observer": "0.7.0",
     "js-search": "2.0.0",
     "lodash": "^4.17.20",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "react": "16.13.1",
     "react-adaptive-hooks": "0.0.8",
     "react-countup": "4.3.3",
