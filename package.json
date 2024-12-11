@@ -65,7 +65,7 @@
     "gatsby-source-drive": "0.0.2",
     "gatsby-source-filesystem": "2.2.2",
     "gatsby-source-graphql": "^2.9.0",
-    "gatsby-source-wordpress": "3.2.3",
+    "gatsby-source-wordpress": "4.0.8",
     "gatsby-transformer-csv": "2.2.1",
     "gatsby-transformer-sharp": "^2.7.0",
     "graphql": "14.6.0",
